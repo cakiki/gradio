@@ -1,7 +1,7 @@
 # Upcoming Release
 
 ## New Features:
-No changes to highlight.
+* Run on kaggle notebooks via sharelinks by [@freddyaboulton](https://github.com/freddyaboulton) in [PR 3101](https://github.com/gradio-app/gradio/pull/3101)
 
 ## Bug Fixes:
 No changes to highlight.
